@@ -20,7 +20,7 @@ input[id="name"]
 body{
     background-color: antiquewhite;
     animation-name: example;
-    animation-duration: 4s;
+    animation-duration: 10s;
 }
 @keyframes example {
     from {background-color: lightgrey;}
