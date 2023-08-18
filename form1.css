@@ -21,10 +21,7 @@ body{
     background-color: antiquewhite;
     animation-name: example;
 
-    animation-duration: 10s;
-
- 
-
+    animation-duration: 4s;
 }
 @keyframes example {
     from {background-color: lightgrey;}
