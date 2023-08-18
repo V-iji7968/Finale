@@ -20,7 +20,10 @@ input[id="name"]
 body{
     background-color: antiquewhite;
     animation-name: example;
+<<<<<<< HEAD
 
+=======
+>>>>>>> finalize
     animation-duration: 4s;
 }
 @keyframes example {
